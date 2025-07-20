@@ -1,0 +1,36 @@
+[
+{
+	"id":1,
+	"Doctor_Name":"Dr.Mahfuz Rahman",
+	"Photograph":"image/1.jpg",
+	"Visiting_Hour":"10:00 AM - 2:00 PM",
+	"Specialitist":"Cardiolosist",
+	"fees":1200
+},
+{
+	"id":2,
+	"Doctor_Name":"Dr.Nusrat Jahan",
+	"Photograph":"image/2.jpg",
+	"Visiting_Hour": "11:00 AM - 3:00 PM",
+	"Specialitist":"Hematology",
+	"fees":1200
+},
+{
+	"id":3,
+	"Doctor_Name":"Dr.Abir",
+	"Photograph":"image/1.jpg",
+	"Visiting_Hour":"12:00 AM - 4:00 PM",
+	"Specialitist":"Orthopedic",
+	"fees":1200
+},
+{
+	"id":4,
+	"Doctor_Name":"Dr.Munmun",
+	"Photograph":"image/2.jpg",
+	"Visiting_Hour":"10:00 AM - 2:00 PM",
+	"Specialitist":"Dermatologist",
+	"fees":1200
+}
+
+
+]
